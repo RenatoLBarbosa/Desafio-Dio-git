@@ -2,6 +2,7 @@
 
 
 ### Desafio proposto em estudo pela plataforma DIO.me no Bootcamp "Potência Tech powered by iFood - Java Beginners".
+<img src="https://user-images.githubusercontent.com/56805018/194964111-09e46c7a-2547-4a74-abe7-c46a26fd3217.png" alt="8c36ef13-eebb-4efa-9a13-31f1c315fc02" width="25%" height="25%">
 
 ### Afim de aplicar conhecimentos em Git/Github apresentados no curso.
 
